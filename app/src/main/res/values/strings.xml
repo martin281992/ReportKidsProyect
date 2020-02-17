@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ReportKidsProyect</string>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">m8RhCHNlTvemezrwz3FKgIh81I4mo6xJ8PjWRlsu</string>
+    <string name="back4app_client_key">VNxXnVozbBnaRn3x1hfzKzjoXxUOXMwBLG5A0lEO</string>
+</resources>
